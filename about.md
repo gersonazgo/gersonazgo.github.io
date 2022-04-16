@@ -2,44 +2,15 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>About</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a full stack web developer with a sound understanding of Marketing, Design and User Experience (UX) focused on creating digital products that have a large impact on society.</p>
 
-<h2>Skills</h2>
+<p>My first lines of code were written back in 1998 when the brazilian web was still on it's early years — and so was I. Since then I've touched everything web-related, from antique Java Applets, going through Flash Websites, PHP, Rails and the Javascript frameworks (React, Vue, Angular) rise in popularity. Alongside my interest in programming always was a keen desire to improve as an UI/UX designer, which led me to abandon a Computer Engineering course at UFRGS (Universidade Federal do Rio Grande do Sul) and pursue an Advertising degree at ESPM (Escola Superior de Propaganda e Marketing), where I learned great research, management and design skills.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
 
-<h2>Projects</h2>
+<p>I strongly believe that every tech endeavor must respect the triple bottom line: be socially responsible and environmentally conscious before thinking about profit measurement. My personal values are all about walking my talk, respecting fellow human beings and leaving the world a better place for future generations.</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+
+<p>Nowadays I spend most of my time on Cortex, an education software project created to help solve the management problem on very complex school networks. Our goal is to create an affordable solution that can be easily adopted by schools of any socioeconomic level, creating a huge and measurable impact on the education of the developing world. This way we can level the playing field, making sure that kids and teenagers from different backgrounds can receive access to good education, therefore reducing inequality.</p>
